@@ -158,13 +158,29 @@
   - Demi-Luxe BEAMS (어른 우먼)
 - **주의**: 파르코에 BEAMS·BEAMS BOY 단독 매장 ❌ 없음. LACHIC이 유일
 
-### WISM (PARCO 남관 3F)
-- **위치**: BAYCREW'S STORE 나고야 3F (PARCO 남관)
-- **소속**: 베이크루즈 그룹 (JOURNAL STANDARD·IÉNA·ÉDIFICE 자매)
+### WISM (PARCO 남관 3F / BAYCREW'S STORE)
+- **위치**: 나고야 PARCO 남관 3F (야바초역 도보 3분)
+- **소속**: 베이크루즈 그룹 — BAYCREW'S STORE 안 가장 하이엔드 모드 라인
 - **오픈**: 2022.3.24 (동해 첫 진출)
-- **취급**: doublet(LVMH 프라이즈), STUDIO NICHOLSON, TAMME, URU, ANCELLM, SEEALL, BoTT, is-ness, Rajabrooke
-- **포지션**: 베이크루즈 안에서 가장 모드·디자이너 지향
+- **포지션**: 도쿄 디자이너 + 해외 컨템포러리 셀렉트. 스트릿×테일러링×아방가르드 교차점
 - **NEEDLES 취급 ❌**
+
+#### 취급 브랜드 가이드
+
+| 브랜드 | DNA | 메모 |
+|--------|-----|------|
+| **doublet** | LVMH Prize 수상. 시즌마다 독특한 자수·프린트·소재. 아트웨어적 접근 | 실물 보고 결정하는 게 맞는 브랜드. 시즌마다 완전히 달라짐 |
+| **TAMME** | 테일러링 × 스트릿 융합. 한국서도 인지도 높음 | 스캔 |
+| **URU** | 소재 중심 어른 캐주얼. 미니멀·클린 | 스캔 |
+| **STUDIO NICHOLSON** | 영국 미니멀 럭셔리. 오버사이즈 실루엣 | 와이프도 가능 |
+| **ANCELLM** | 일본 아방가르드 스트릿 | 관심도에 따라 |
+| **SEEALL / BoTT / is-ness** | 도쿄 모드·그래픽 계열 | 가볍게 훑기 |
+| **DAIRIKU 등 팝업** | 게스트 브랜드 로테이션 | 당일 BAYCREW'S DEPO(같은 3F)에서 확인 |
+
+#### 꿀팁
+- doublet 한국 편집샵 대비 관세+마진 이점 있음 → 마음에 드는 거 있으면 여기서 픽
+- 면세 적용 가능 (개별 계산대에서 처리)
+- BAYCREW'S DEPO 팝업은 당일 방문해야 뭐가 있는지 알 수 있음
 
 ### THE NORTH FACE 퍼플라벨 (LACHIC 5F)
 - **위치**: LACHIC 5F THE NORTH FACE (동해 플래그십)
