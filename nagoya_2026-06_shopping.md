@@ -79,11 +79,11 @@
 
 | # | 매장 | 위치 | 핵심 |
 |---|---|---|---|
-| 1 | **BEAVER** | PARCO 동관 | NEEDLES H.D. Track Pant 본진 + BEAVER × NEEDLES 별주 |
+| 1 | **BEAVER** | PARCO 서관 5F | NEEDLES H.D. Track Pant 본진 + BEAVER × NEEDLES 별주 / LHP와 같은 층 |
 | 2 | **THE TOKYO 노면점** | 사카에 3-23-10 | NEEDLES + N.HOOLYWOOD + kolor + ATON + ATTACHMENT + CINOH + IRENISA (2025.8 신규 130평 2층) |
 | 3 | **LHP 나고야 파르코** | PARCO 서관 5F | NEEDLES × LHP 별주, BlackEyePatch, Y-3, MCM, SUPPLIER |
 | 4 | **BEAMS 나고야** | LACHIC 2F | **부부 메인**. 멀티 라벨 8종 (BEAMS, BEAMS BOY, BEAMS PLUS, Ray BEAMS, Demi-Luxe BEAMS, BEAMS F, bPr BEAMS, Brilla per il gusto) |
-| 5 | **WISM** | PARCO 남관 3F (BAYCREW'S STORE) | doublet, TAMME, URU, STUDIO NICHOLSON, ANCELLM, SEEALL |
+| 5 | **WISM** | PARCO 남관 2F (BAYCREW'S STORE) | doublet, TAMME, URU, STUDIO NICHOLSON, ANCELLM, SEEALL |
 | 6 | **THE NORTH FACE 퍼플라벨** | LACHIC 5F | **동해 지역 플래그십**. 나고야에서 TNFPPL 정식 취급 거의 유일 |
 | 7 | **BRIDGE** | 나디아 파크 (야바초역 도보 7분) | Engineered Garments 정식 취급 (나고야 거의 유일) |
 
@@ -92,24 +92,31 @@
 | # | 매장 | 위치 | 핵심 |
 |---|---|---|---|
 | 8 | **BSHOP** | LACHIC 4F | 유럽 베이직 (Danton·Saint James·Orcival), 부부 모두 |
-| 9 | **STUDIOUS MENS** | PARCO 서관 1F | TOKYO BASE 별주 한정판 |
+| 9 | **STUDIOUS MENS** | PARCO 서관 1F | **TOKYO BASE × NEEDLES 별주** + 니들스 HD팬츠 |
 | 10 | **UNITED ARROWS** | LACHIC 2F | 트래디셔널 셀렉트, 어른 시티 |
 | 11 | **SHIPS** | LACHIC 3F | KAPTAIN SUNSHINE, GITMAN VINTAGE, EG 시즌 픽업 |
 | 12 | **TOMORROWLAND** | LACHIC 3F | Lemaire, AURALEE, 어른 유럽 모드 |
 | 13 | **HIROB (빈티지 시계)** | PARCO 남관 1F (BAYCREW'S) | 빈티지 ROLEX·OMEGA·CHANEL/HERMES (와이프 5~10분만) |
 | 14 | **LHP 나고야 본점 (노면)** | 사카에 오츠도리 노면점 | 70평 풀라인, SALE 재고 (LHP 파르코점 다음으로) |
 
+### 🥈 Tier A (추가)
+
+| # | 매장 | 위치 | 핵심 |
+|---|---|---|---|
+| 14-b | **UNEVEN GENERAL STORE** | 栄4-14-25 赤座ビル1F (사카에역 13번출구 도보 3분) | **NEEDLES 별주 트랙팬츠 기획 이력 + NEPENTHES 취급** (나고야 희귀). 영업 12:00~20:00 |
+
 ### 🥉 Tier B — 보너스
 
 | # | 매장 | 위치 | 핵심 |
 |---|---|---|---|
-| 15 | **FREAK'S STORE** | PARCO 동관 | 캐주얼·아웃도어, NEEDLES 일부 |
+| 15 | **FREAK'S STORE** | PARCO 동관 | **FREAK'S STORE × NEEDLES 2026 SS 별주** (Black/Grey 트랙 탑+팬츠) + GRAMICCI 우먼스 |
+| 15-b | **B'2nd** | PARCO 동관 1F (서관 5F에서 이전, 2025.3) | **B'2nd × NEEDLES 별주** 취급 |
 | 16 | **EDIFICE** | PARCO 남관 BAYCREW'S 2F | 어른 시티 모드 (남편) |
 | 17 | **LUXE / relume Ladies** | PARCO 남관 BAYCREW'S B1 | 와이프 어른 캐주얼 SALE 매대만 |
 
 ### ❌ Tier C — 스킵해도 무방
 
-- JOURNAL STANDARD relume Men's (PARCO 남관 2F) — 한국 직구 가능
+- JOURNAL STANDARD relume Men's (PARCO 남관 2F) — 워크웨어 DNA, 프릭스스토어와 겹침
 - IÉNA / SLOBE / LE TALON / EYETHINK (PARCO 남관 1F) — 프렌치 시크 (시티보이와 결 다름)
 - CITY SHOP / Oriens (PARCO 남관 3F) — WISM 옆이라 지나가는 정도
 
@@ -118,7 +125,7 @@
 ## 3. 핵심 매장 상세 정보
 
 ### BEAVER (NEEDLES 본진)
-- **위치**: 나고야 PARCO 동관 / 야바초역 도보 3분
+- **위치**: 나고야 PARCO **서관 5F** / 야바초역 도보 3분 ← LHP와 같은 층
 - **전화**: 052-238-0285
 - **인스타**: @beaver_nagoya
 - **특징**: NEEDLES 풀 시즌 라인업 + BEAVER × NEEDLES 단독 별주 정기 출시
@@ -158,7 +165,7 @@
   - Demi-Luxe BEAMS (어른 우먼)
 - **주의**: 파르코에 BEAMS·BEAMS BOY 단독 매장 ❌ 없음. LACHIC이 유일
 
-### WISM (PARCO 남관 3F / BAYCREW'S STORE)
+### WISM (PARCO 남관 2F / BAYCREW'S STORE)
 - **위치**: 나고야 PARCO 남관 3F (야바초역 도보 3분)
 - **소속**: 베이크루즈 그룹 — BAYCREW'S STORE 안 가장 하이엔드 모드 라인
 - **오픈**: 2022.3.24 (동해 첫 진출)
@@ -242,6 +249,11 @@
 | **NEEDLES × LHP** | LHP (PARCO 서관 5F) | LHP 단독 컬러·자수 |
 | **BEAMS × NEEDLES** | BEAMS LACHIC 2F | BEAMS 본사 별주 일부 배분 (지점 한정) |
 | **NEEDLES × BEAMS BOY** | BEAMS LACHIC 2F (BEAMS BOY 코너) | 와이프 시티보이용 우먼 사이즈 |
+| **NEEDLES × JOINT WORKS** | ⚠️ **온라인(BAYCREW'S STORE) 한정** — 나고야 물리 매장 없음 | 2026 SS 3종: Track Pant ¥23,100 / Track Jacket ¥28,600 / H.D. Track Short ¥22,000 (5/15~5/22 발매) |
+| **B'2nd × NEEDLES** | B'2nd (PARCO 동관 1F) | 별주 트랙 자켓 등 — 당일 재고 현장 확인 |
+| **UNEVEN × NEEDLES** | UNEVEN GENERAL STORE (栄4-14-25) | 별주 트랙팬츠 기획 이력 — 당일 재고 현장 확인 |
+| **TOKYO BASE × NEEDLES** | Studious MENS (PARCO 서관 1F) | 별주라인 — 당일 재고 현장 확인 |
+| **FREAK'S STORE × NEEDLES** | FREAK'S STORE (PARCO 동관) | **2026 SS 별주** Black/Grey 트랙 탑+팬츠 셋업 |
 
 ### 4-5. 매장 시착 체크포인트 (S 사이즈 기준)
 
